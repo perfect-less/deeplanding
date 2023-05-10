@@ -130,12 +130,16 @@ If you want to have visualization of the aircraft's position and the controll co
 
 ## Results
 Bellow are the plot of aircraft's trajectory both controlled by Deeplanding and autopilot from X-Plane.
+
+
 ![aircraft trajectory](figs/ch4_position_comp.png)
 <h5 align="center">Aircraft's Trajectory.</h5>
 
 As can be clearly seen above, on vertical plane there's isn't much different between the two. But relative to the localizer, the error from Deeplanding were noticeably larger than from the autopilot.
 
 We can also see the controll command send by both Deeplanding and autopilot.
+
+
 ![controll command](figs/ch4_sim_command.png)
 <h5 align="center">Controll Command Plot.</h5>
 
