@@ -12,7 +12,7 @@
 </p>
 
 
-![demo](res/img/deeplanding_demo.gif)
+![demo](res/img/deeplandingdemo.gif)
 <h4 align="center">Deep learning based autolanding system..</h4>
 
 ## Summary
