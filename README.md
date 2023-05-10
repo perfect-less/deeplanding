@@ -13,7 +13,7 @@
 
 
 ![demo](res/img/deeplandingdemo.gif)
-<h4 align="center">Deep learning based autolanding system..</h4>
+<h4 align="center">Deep learning based autolanding system</h4>
 
 ## Summary
 Deeplanding is an automatic landing system made using deep learning approach. Deeplanding system consists of 5 neural network models that work in parallel to controll the aircraft movement to keep the aircraft on the glide slope while also centered with the runway.
@@ -47,7 +47,7 @@ Additionally, if you want graph visualization when testing the models on X-Plane
 $ conda install -c conda-forge streamlit 
 ```
 
-To be able to run jupyter notebook files (.ipynb) you also need to install jupyter.
+To be able to run jupyter notebook files (.ipynb) you also need to install `jupyter`.
 ```bash
 $ conda install -c anaconda jupyter 
 ```
@@ -57,7 +57,7 @@ $ conda install -c anaconda jupyter
 ```bash
 $ git clone https://github.com/perfect-less/deeplanding
 ```
-2. Now go inside newly created `deeplanding` folder and clone `TA-HPC-Scripts` repo.
+2. Now go inside newly created `deeplanding` folder and clone `TA-HPC-Scripts` repository.
 ```bash
 # Go into deeplanding folder
 $ cd deeplanding
@@ -98,7 +98,7 @@ $ python cutRecordings.py -a --out_dir Trimmed.ail
 
 
 ## Training
-Step-by-step procedure on how to use the data that were prepared on the previous section can be found on [TA-HPC-Scripts](https://github.com/perfect-less/TA-HPC-Scripts) repo.
+Step-by-step procedure on how to use the data that we have prepared on the previous section can be found on [TA-HPC-Scripts](https://github.com/perfect-less/TA-HPC-Scripts) repo.
 
 Please make sure you are inside `TA-HPC-Scripts` folder before you train your models.
 
